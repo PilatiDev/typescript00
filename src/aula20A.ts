@@ -1,5 +1,5 @@
 //Herança é quando tenho uma classe que herda característica de outra classe.
-
+/* 
 class Conta{
     public numero:number
     public titular:string
@@ -22,3 +22,4 @@ const cont2 = new ContaPJ(112233,"Cristiano")
 console.log(cont1);
 console.log(cont2);
 
+ */
