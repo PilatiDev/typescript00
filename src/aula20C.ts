@@ -1,4 +1,4 @@
-class Conta {
+/* class Conta {
   //Public: acessado de qualquer lugar
   //Private: acessado somente na sua própria classe
   //Protected: acessado somente na sua própria classe e nas classes filho
@@ -114,3 +114,4 @@ console.log(cont1.saldo());
 // cont2.deposito(10000)
 // cont2.deposito(10001)
 // console.log(cont2.saldo());
+ */
