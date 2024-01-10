@@ -52,7 +52,6 @@ abstract class Conta {
       }
     }
   }
-  
   class ContaPF extends Conta {
     cpf: number;
     constructor(cpf: number, titular: string) {
